@@ -40,7 +40,10 @@
     [self.view addSubview:self.collectionView];
     
     [self.collectionView mas_makeConstraints:^(MASConstraintMaker *make) {
-        make.edges.equalTo(self.view);
+        make.top.equalTo(self.view.mas_top);
+        make.left.equalTo(self.view.mas_left);
+        make.width.equalTo(self.view.mas_width);
+        make.bottom.equalTo(self.view.mas_bottom);
     }];
     
     // 初始化 sizeRange

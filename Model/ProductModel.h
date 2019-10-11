@@ -1,5 +1,5 @@
 //
-//  ProductComponentContext.h
+//  ProductModel.h
 //  CKDemo
 //
 //  Created by kong on 2019/10/11.
@@ -9,9 +9,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface ProductComponentContext : NSObject
-
-@property (nonatomic, weak) UIViewController *controller;
+@interface ProductModel : NSObject
 
 @end
 

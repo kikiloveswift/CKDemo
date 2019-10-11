@@ -13,6 +13,11 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface ProductComponent : CKCompositeComponent
 
+@property (nonatomic) ZHQuestionRelatedModel *card;
+@property (nonatomic) ZHCKCommonContext *context;
+
++ (instancetype)newWithModel:(ZHQuestionRelatedModel *)card
+                     context:(ZHCKCommonContext *)context
 
 
 @end
