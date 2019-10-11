@@ -26,6 +26,7 @@ Pod::Spec.new do |s|
   s.dependency 'ReactiveObjC'
   s.dependency 'ComponentKit'
   s.dependency 'SDWebImage'
+  s.dependency 'YYModel'
   
 
 end
