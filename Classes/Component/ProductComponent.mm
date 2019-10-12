@@ -75,6 +75,7 @@
              style:{
                 .direction = CKFlexboxDirectionColumn,
                 .justifyContent = CKFlexboxJustifyContentStart,
+                .alignItems = CKFlexboxAlignItemsStretch,
             }
              children:{
             {
@@ -97,7 +98,8 @@
                       size:{}
                       style:{
                     .direction = CKFlexboxDirectionRow,
-                    .justifyContent = CKFlexboxJustifyContentStart,
+                    .justifyContent = CKFlexboxJustifyContentCenter,
+                    .alignItems = CKFlexboxAlignItemsStretch,
                 }
                       children:{
                 {
@@ -110,7 +112,7 @@
                 }
             }];
     
-    ProductComponent *p = [ProductComponent newWithComponent:c];
+    ProductComponent *p = [ProductComponent newWithComponent:[CKInsetComponent newWithInsets:{.top = 20, .left = 20, .right = 15, .bottom = 20} component:c]];
     p.context = context;
     p.model = m;
     return p;
