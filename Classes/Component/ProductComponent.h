@@ -7,17 +7,18 @@
 
 #import <ComponentKit/ComponentKit.h>
 
+@class ProductModel;
 @class ProductComponentContext;
 
 NS_ASSUME_NONNULL_BEGIN
 
 @interface ProductComponent : CKCompositeComponent
 
-@property (nonatomic) ZHQuestionRelatedModel *card;
-@property (nonatomic) ZHCKCommonContext *context;
+@property (nonatomic) ProductModel *model;
+@property (nonatomic) ProductComponentContext *context;
 
-+ (instancetype)newWithModel:(ZHQuestionRelatedModel *)card
-                     context:(ZHCKCommonContext *)context
++ (instancetype)newWithModel:(ProductModel *)card
+                     context:(ProductComponentContext *)context;
 
 
 @end

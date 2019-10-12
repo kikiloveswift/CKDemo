@@ -7,9 +7,10 @@
 //
 
 #import "ProductViewController.h"
-
 #import <Masonry/Masonry.h>
 #import <ComponentKit/ComponentKit.h>
+
+#import <ProductViewModel.h>
 
 #define ScreenSize [UIScreen mainScreen].bounds.size
 
@@ -21,6 +22,8 @@
 
 @property (nonatomic) CKCollectionViewDataSource *dataSource;
 
+@property (nonatomic) ProductViewModel *viewModel;
+
 @end
 
 @implementation ProductViewController
@@ -28,6 +31,30 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self setupUI];
+    [self configSetting];
+    [self requestData];
+}
+
+- (void)configSetting {
+    NSURL *path = [[NSBundle mainBundle] URLForResource:@"CKDemo" withExtension:@"bundle"];
+    self.viewModel = [[ProductViewModel alloc] initWithPath:path.absoluteString];
+}
+
+- (void)requestData {
+    @weakify(self);
+    [[[[self.viewModel fetchNew]
+       takeUntil:self.rac_willDeallocSignal]
+      deliverOnMainThread]
+     subscribeNext:^(id  _Nullable x) {
+        @strongify(self);
+        [self enquePage];
+    } error:^(NSError * _Nullable error) {
+        /// show alert
+    }];
+}
+
+- (void)enquePage {
+    
 }
 
 - (void)setupUI {

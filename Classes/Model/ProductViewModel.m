@@ -29,7 +29,9 @@
         @strongify(self);
         /// network with path request
         NSString *path = self.path;
-        [subscriber sendNext:<#(nullable id)#>]
+        NSBundle *bundle = [NSBundle bundleWithURL:[NSURL URLWithString:path]];
+        NSData *data = [bundle pathForResource:@"product" ofType:@"json"];
+        [subscriber sendNext:nil];
         [subscriber sendCompleted];
     }] replayLast] deliverOnMainThread];
 }
