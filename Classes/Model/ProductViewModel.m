@@ -28,14 +28,29 @@
     @weakify(self);
     return [[[RACSignal createSignal:^RACDisposable * _Nullable(id<RACSubscriber>  _Nonnull subscriber) {
         @strongify(self);
+        RACDisposable *disposable = [RACDisposable disposableWithBlock:^{
+        }];
+        
+        NSError *pathError = [NSError errorWithDomain:@"com.xx.xx" code:1000 userInfo:@{NSLocalizedDescriptionKey : @"pathError"}];
+        
+        NSError *dataError = [NSError errorWithDomain:@"com.xx.xx" code:1000 userInfo:@{NSLocalizedDescriptionKey : @"dataError"}];
         
         /// network with path request
         NSString *path = self.path;
+        if (path.length <= 0) {
+            [subscriber sendError:pathError];
+            return disposable;
+        }
         NSBundle *associateBundle = [NSBundle bundleWithURL:[NSURL URLWithString:path]];
         associateBundle = [associateBundle URLForResource:@"CKDemo" withExtension:@"bundle"];
         NSBundle *bundle = [NSBundle bundleWithURL:associateBundle];
         NSString *pathJSON = [bundle pathForResource:@"product" ofType:@"json"];
         NSData *data = [NSData dataWithContentsOfFile:pathJSON options:NSDataReadingMappedIfSafe error:nil];
+        
+        if (data == nil) {
+            [subscriber sendError:dataError];
+            return disposable;
+        }
     
         id json = [NSJSONSerialization JSONObjectWithData:data options:NSJSONReadingMutableContainers error:nil];
         if ([json isKindOfClass:NSArray.class]) {
@@ -44,10 +59,8 @@
                 ProductModel *model = [ProductModel yy_modelWithJSON:obj];
                 [mArr addObject:model];
             }];
-            self.dataArr = [mArr copy];
+            [subscriber sendNext:[mArr copy]];
         }
-        
-        [subscriber sendNext:self.dataArr];
         [subscriber sendCompleted];
     }] replayLast] deliverOnMainThread];
 }

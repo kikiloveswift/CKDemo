@@ -17,7 +17,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic) ProductModel *model;
 @property (nonatomic) ProductComponentContext *context;
 
-+ (instancetype)newWithModel:(ProductModel *)card
++ (instancetype)newWithModel:(ProductModel *)m
                      context:(ProductComponentContext *)context;
 
 
