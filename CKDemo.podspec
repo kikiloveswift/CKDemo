@@ -8,17 +8,17 @@ Pod::Spec.new do |s|
   s.author       = { "konglee873" => "konglee873@gmail.com" }
   s.source       = { :git => "git@github.com:kingleekong/CKDemo.git", :tag => "#{s.version}"}
   s.source_files = [
-    "CKDemo/Classes/**/**/*.{swift,h,m,c,mm}",
+    "Classes/**/**/*.{swift,h,m,c,mm}",
   ]
-  s.resource = 'CKDemo/Resources/*.bundle'
+  s.resource = 'Resources/*.bundle'
   s.license      = "MIT"
   s.platform     = :ios
   s.ios.deployment_target = '9.0'
 
   
   s.public_header_files = [
-    'CKDemo/Classes/Context/ProductComponentContext.h',
-    'CKDemo/Classes/Context/ImageDownloader.h',
+    'Classes/Context/ProductComponentContext.h',
+    'Classes/Context/ImageDownloader.h',
   ]
   
   s.requires_arc = true
