@@ -43,9 +43,9 @@
 }
 
 - (id)downloadImageWithURL:(NSURL *)URL
-               caller:(id)caller
-        callbackQueue:(dispatch_queue_t)callbackQueue
-downloadProgressBlock:(void (^)(CGFloat progress))downloadProgressBlock
+                    caller:(id)caller
+             callbackQueue:(dispatch_queue_t)callbackQueue
+     downloadProgressBlock:(void (^)(CGFloat progress))downloadProgressBlock
                 completion:(void (^)(CGImageRef image, NSError *error))completion {
     NSAssert(URL != nil, @"URL 不可为空");
     UIImage *img = [[SDImageCache sharedImageCache] imageFromCacheForKey:URL.absoluteString];
