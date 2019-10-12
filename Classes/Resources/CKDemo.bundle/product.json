@@ -1,0 +1,1627 @@
+[{
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": true,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1559491200, 1559664000, 1559923200, 1560096000, 1560268800, 1560528000, 1560700800, 1560873600, 1561132800, 1561305600, 1561478400, 1561737600, 1561910400, 1562083200, 1562342400, 1562515200, 1562688000, 1563120000, 1563292800, 1563552000, 1563724800, 1563897600, 1564156800, 1564329600, 1564502400, 1564761600, 1564934400, 1565107200, 1565366400, 1565539200, 1565712000, 1565971200, 1566144000, 1566316800, 1566576000, 1566748800, 1566921600, 1567180800, 1567353600, 1567526400, 1567785600, 1567958400, 1568131200, 1568390400, 1568563200, 1568736000],
+    "HolidayList": ["端午"],
+    "ProductGrade": 3,
+    "ProductID": 83019,
+    "ProductType": 4,
+    "ProductSubType": 2,
+    "name": "【经典单岛】希腊7晚9天百变自由行【行程天数可调/城市顺序可调/可代订门票日游】",
+    "subName": "爱琴海的日落 白墙·蓝顶·三角梅 雅典+圣岛伊亚+圣岛费拉 ",
+    "ProductUrl": "https://m.aoyou.com/tourstatic.html?pid=83019&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201802/hv0j0801171614.jpg",
+    "ProductPrice": 10699.0,
+    "PreferentialMoney": 0.0,
+    "price": 10699.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "自营",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "大城小镇",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "城市+海岛",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 2,
+        "CornerMarkName": "自由行"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 7, 14],
+    "IsTopRecommendProduct": true,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": true,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1559491200, 1559664000, 1559923200, 1560096000, 1560268800, 1560528000, 1560700800, 1560873600, 1561132800, 1561305600, 1561478400, 1561737600, 1561910400, 1562083200, 1562342400, 1562515200, 1562688000, 1563120000, 1563292800, 1563552000, 1563724800, 1563897600, 1564156800, 1564329600, 1564502400, 1564761600, 1564934400, 1565107200, 1565366400, 1565539200, 1565712000, 1565971200, 1566144000, 1566316800, 1566576000, 1566748800, 1566921600, 1567180800, 1567353600, 1567526400, 1567785600, 1567958400, 1568131200, 1568390400, 1568563200, 1568736000],
+    "HolidayList": ["端午"],
+    "ProductGrade": 3,
+    "ProductID": 111597,
+    "ProductType": 4,
+    "ProductSubType": 2,
+    "name": "【浪漫双岛】希腊双岛7晚9天百变自由行【行程天数可调/城市顺序可调/可代订门票日游火车票】",
+    "subName": "雅典+圣岛费拉+米岛",
+    "ProductUrl": "https://m.aoyou.com/tourstatic.html?pid=111597&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201705/2b2f4n12154547.jpg",
+    "ProductPrice": 10599.0,
+    "PreferentialMoney": 0.0,
+    "price": 10599.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "自营",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 2,
+        "CornerMarkName": "自由行"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 7, 14],
+    "IsTopRecommendProduct": true,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1560182400, 1561392000, 1563033600, 1565539200, 1567872000],
+    "HolidayList": null,
+    "ProductGrade": 4,
+    "ProductID": 119521,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "浪漫三岛希腊圣岛米岛扎金索斯11日游【20人小团/沉船湾/悬崖酒店】",
+    "subName": "雅典升五星酒店/圣托里尼直飞雅典/卫城博物馆/雅典一整天游览/伯罗奔尼撒半岛",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=119521&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201608/00p8v005145112.jpg",
+    "ProductPrice": 19988.0,
+    "PreferentialMoney": 0.0,
+    "price": 19988.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "自营",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "城市+海岛",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "情侣蜜月",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 7, 17],
+    "IsTopRecommendProduct": true,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": true,
+    "IsCombined": false,
+    "DepartDateList": [1558281600, 1558454400, 1558713600, 1558886400, 1559059200, 1559491200, 1559923200, 1560096000, 1560268800, 1560528000, 1560700800, 1560873600, 1561132800, 1561305600, 1561478400, 1561737600, 1561910400, 1562083200, 1562342400, 1562515200, 1562688000, 1563120000, 1563292800, 1563552000, 1563724800, 1563897600, 1564156800, 1564329600, 1564502400, 1564761600, 1564934400, 1565107200, 1565366400, 1565539200, 1565712000, 1565971200, 1566144000, 1566316800, 1566576000, 1566748800, 1566921600, 1567180800, 1567353600, 1567526400, 1567785600, 1567958400, 1568131200, 1568390400, 1568563200, 1568736000],
+    "HolidayList": ["端午"],
+    "ProductGrade": 4,
+    "ProductID": 137767,
+    "ProductType": 4,
+    "ProductSubType": 2,
+    "name": "【情定爱琴海】希腊7晚9天半自助【圣岛4星悬崖酒店/往返船票/机场及港口接送】",
+    "subName": "雅典+圣托里尼+雅典",
+    "ProductUrl": "https://m.aoyou.com/tourstatic.html?pid=137767&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201310/t02jnj10174517.jpg",
+    "ProductPrice": 15899.0,
+    "PreferentialMoney": 0.0,
+    "price": 15899.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "自营",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 15,
+        "CornerMarkName": "半自助"
+    }, {
+        "CornerMarkID": 2,
+        "CornerMarkName": "自由行"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 7, 12],
+    "IsTopRecommendProduct": true,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": true,
+    "IsHalfSelfHelp": true,
+    "IsCombined": false,
+    "DepartDateList": [1559491200, 1559664000, 1559923200, 1560096000, 1560268800, 1560528000, 1560700800, 1560873600, 1561132800, 1561305600, 1561478400, 1561737600],
+    "HolidayList": ["端午"],
+    "ProductGrade": 4,
+    "ProductID": 44322,
+    "ProductType": 4,
+    "ProductSubType": 2,
+    "name": "【米岛+圣岛】希腊爱琴海7晚9天半自助【圣岛4星悬崖酒店/往返船票/机场及港口接送】",
+    "subName": "雅典+米克诺斯+圣托里尼+雅典",
+    "ProductUrl": "https://m.aoyou.com/tourstatic.html?pid=44322&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201310/t02jnj10174517.jpg",
+    "ProductPrice": 15399.0,
+    "PreferentialMoney": 0.0,
+    "price": 15399.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "自营",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 15,
+        "CornerMarkName": "半自助"
+    }, {
+        "CornerMarkID": 2,
+        "CornerMarkName": "自由行"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 7, 14, 12],
+    "IsTopRecommendProduct": true,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1560182400, 1561392000, 1563033600, 1565539200, 1567872000],
+    "HolidayList": null,
+    "ProductGrade": 4,
+    "ProductID": 119521,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "浪漫三岛希腊圣岛米岛扎金索斯11日游【20人小团/沉船湾/悬崖酒店】",
+    "subName": "雅典升五星酒店/圣托里尼直飞雅典/卫城博物馆/雅典一整天游览/伯罗奔尼撒半岛",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=119521&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201608/00p8v005145112.jpg",
+    "ProductPrice": 19988.0,
+    "PreferentialMoney": 0.0,
+    "price": 19988.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "自营",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "城市+海岛",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "情侣蜜月",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 7, 17],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": true,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1559491200, 1559664000, 1559923200, 1560096000, 1560268800, 1560528000, 1560700800, 1560873600, 1561132800, 1561305600, 1561478400, 1561737600, 1561910400, 1562083200, 1562342400, 1562515200, 1562688000, 1563120000, 1563292800, 1563552000, 1563724800, 1563897600, 1564156800, 1564329600, 1564502400, 1564761600, 1564934400, 1565107200, 1565366400, 1565539200, 1565712000, 1565971200, 1566144000, 1566316800, 1566576000, 1566748800, 1566921600, 1567180800, 1567353600, 1567526400, 1567785600, 1567958400, 1568131200, 1568390400, 1568563200, 1568736000],
+    "HolidayList": ["端午"],
+    "ProductGrade": 3,
+    "ProductID": 83019,
+    "ProductType": 4,
+    "ProductSubType": 2,
+    "name": "【经典单岛】希腊7晚9天百变自由行【行程天数可调/城市顺序可调/可代订门票日游】",
+    "subName": "爱琴海的日落 白墙·蓝顶·三角梅 雅典+圣岛伊亚+圣岛费拉 ",
+    "ProductUrl": "https://m.aoyou.com/tourstatic.html?pid=83019&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201802/hv0j0801171614.jpg",
+    "ProductPrice": 10699.0,
+    "PreferentialMoney": 0.0,
+    "price": 10699.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "自营",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "大城小镇",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "城市+海岛",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 2,
+        "CornerMarkName": "自由行"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 7, 14],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": true,
+    "IsHalfSelfHelp": true,
+    "IsCombined": false,
+    "DepartDateList": [1559491200, 1559664000, 1559923200, 1560096000, 1560268800, 1560528000, 1560700800, 1560873600, 1561132800, 1561305600, 1561478400, 1561737600],
+    "HolidayList": ["端午"],
+    "ProductGrade": 4,
+    "ProductID": 44322,
+    "ProductType": 4,
+    "ProductSubType": 2,
+    "name": "【米岛+圣岛】希腊爱琴海7晚9天半自助【圣岛4星悬崖酒店/往返船票/机场及港口接送】",
+    "subName": "雅典+米克诺斯+圣托里尼+雅典",
+    "ProductUrl": "https://m.aoyou.com/tourstatic.html?pid=44322&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201310/t02jnj10174517.jpg",
+    "ProductPrice": 15399.0,
+    "PreferentialMoney": 0.0,
+    "price": 15399.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "自营",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 15,
+        "CornerMarkName": "半自助"
+    }, {
+        "CornerMarkID": 2,
+        "CornerMarkName": "自由行"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 7, 14, 12],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1560960000, 1563897600, 1565452800],
+    "HolidayList": null,
+    "ProductGrade": 5,
+    "ProductID": 141330,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "希腊+土耳其全景15日游【2晚悬崖+2晚洞穴酒店/双岛休闲/内陆加飞】",
+    "subName": "行程伊斯坦布尔所有门票/两国美食/圣岛-雅典加飞/船游博斯普鲁斯海峡/封顶25人",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=141330&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201807/420bx227100025.jpg",
+    "ProductPrice": 23988.0,
+    "PreferentialMoney": 0.0,
+    "price": 23988.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "自营",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "世界文化遗产",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "温泉疗养",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 4,
+        "ShowLabelName": "宗教朝圣",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 7, 17],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1569340800],
+    "HolidayList": ["十一"],
+    "ProductGrade": 4,
+    "ProductID": 115304,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "【优选超经舱】希腊三岛浪漫11日游【20人小团/悬崖酒店/沉船湾】",
+    "subName": "雅典升级五星酒店/伯罗奔尼撒半岛/圣托里直飞雅典/雅典一整天游览 ",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=115304&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201608/86vp2t05144906.jpg",
+    "ProductPrice": 27988.0,
+    "PreferentialMoney": 0.0,
+    "price": 27988.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "自营",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "城市+海岛",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "情侣蜜月",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 7],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": true,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1559491200, 1559923200, 1560096000, 1560528000, 1560700800, 1561737600, 1561910400, 1562947200, 1563120000, 1563552000, 1563724800, 1564156800, 1564329600, 1564761600, 1564934400, 1565366400, 1565971200, 1566144000, 1566576000, 1566748800, 1567180800, 1567353600, 1567785600, 1567958400, 1568390400, 1568563200],
+    "HolidayList": ["端午"],
+    "ProductGrade": 3,
+    "ProductID": 94309,
+    "ProductType": 4,
+    "ProductSubType": 2,
+    "name": "【醉美三岛】希腊扎.圣.米三岛9晚11天百变自由行【行程天数可调/城市顺序可调/可代订门票日游火车票】",
+    "subName": "雅典+扎金索斯+圣托里尼+米克诺斯",
+    "ProductUrl": "https://m.aoyou.com/tourstatic.html?pid=94309&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201603/p8t0fn30103251.jpg",
+    "ProductPrice": 12999.0,
+    "PreferentialMoney": 0.0,
+    "price": 12999.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "自营",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "城市+海岛",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "摄影写真",
+        "ShowLabelDetail": "有专业摄影师为您拍摄写真大片！"
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 2,
+        "CornerMarkName": "自由行"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 7, 14],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": true,
+    "IsHalfSelfHelp": true,
+    "IsCombined": false,
+    "DepartDateList": [1560268800, 1560528000, 1560700800, 1560873600, 1561132800, 1561305600, 1561478400, 1561737600],
+    "HolidayList": null,
+    "ProductGrade": 4,
+    "ProductID": 37185,
+    "ProductType": 4,
+    "ProductSubType": 1,
+    "name": "【婚纱旅拍】希腊双岛7晚9天半自助【旅游婚拍一举两得/含圣托里尼拍摄当天用车/专业团队2对1服务】",
+    "subName": "双重浪漫 蓝白小镇圣托里尼婚纱拍摄8小时套餐 可增订内陆飞机2段 ",
+    "ProductUrl": "https://m.aoyou.com/tourstatic.html?pid=37185&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201412/r82x6x09101413.jpg",
+    "ProductPrice": 28899.0,
+    "PreferentialMoney": 0.0,
+    "price": 28899.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "自营",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "摄影写真",
+        "ShowLabelDetail": "有专业摄影师为您拍摄写真大片！"
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "情侣蜜月",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 15,
+        "CornerMarkName": "半自助"
+    }, {
+        "CornerMarkID": 2,
+        "CornerMarkName": "自由行"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [9, 7, 14, 12],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": true,
+    "IsCombined": false,
+    "DepartDateList": [1558281600, 1558454400, 1558713600, 1558886400, 1559059200, 1559491200, 1559923200, 1560096000, 1560268800, 1560528000, 1560700800, 1560873600, 1561132800, 1561305600, 1561478400, 1561737600, 1561910400, 1562083200, 1562342400, 1562515200, 1562688000, 1563120000, 1563292800, 1563552000, 1563724800, 1563897600, 1564156800, 1564329600, 1564502400, 1564761600, 1564934400, 1565107200, 1565366400, 1565539200, 1565712000, 1565971200, 1566144000, 1566316800, 1566576000, 1566748800, 1566921600, 1567180800, 1567353600, 1567526400, 1567785600, 1567958400, 1568131200, 1568390400, 1568563200, 1568736000],
+    "HolidayList": ["端午"],
+    "ProductGrade": 4,
+    "ProductID": 137767,
+    "ProductType": 4,
+    "ProductSubType": 2,
+    "name": "【情定爱琴海】希腊7晚9天半自助【圣岛4星悬崖酒店/往返船票/机场及港口接送】",
+    "subName": "雅典+圣托里尼+雅典",
+    "ProductUrl": "https://m.aoyou.com/tourstatic.html?pid=137767&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201310/t02jnj10174517.jpg",
+    "ProductPrice": 15899.0,
+    "PreferentialMoney": 0.0,
+    "price": 15899.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "自营",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 15,
+        "CornerMarkName": "半自助"
+    }, {
+        "CornerMarkID": 2,
+        "CornerMarkName": "自由行"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 7, 12],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": true,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1559491200, 1559664000, 1559923200, 1560096000, 1560268800, 1560528000, 1560700800, 1560873600, 1561132800, 1561305600, 1561478400, 1561737600, 1561910400, 1562083200, 1562342400, 1562515200, 1562688000, 1563120000, 1563292800, 1563552000, 1563724800, 1563897600, 1564156800, 1564329600, 1564502400, 1564761600, 1564934400, 1565107200, 1565366400, 1565539200, 1565712000, 1565971200, 1566144000, 1566316800, 1566576000, 1566748800, 1566921600, 1567180800, 1567353600, 1567526400, 1567785600, 1567958400, 1568131200, 1568390400, 1568563200, 1568736000],
+    "HolidayList": ["端午"],
+    "ProductGrade": 3,
+    "ProductID": 111597,
+    "ProductType": 4,
+    "ProductSubType": 2,
+    "name": "【浪漫双岛】希腊双岛7晚9天百变自由行【行程天数可调/城市顺序可调/可代订门票日游火车票】",
+    "subName": "雅典+圣岛费拉+米岛",
+    "ProductUrl": "https://m.aoyou.com/tourstatic.html?pid=111597&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201705/2b2f4n12154547.jpg",
+    "ProductPrice": 10599.0,
+    "PreferentialMoney": 0.0,
+    "price": 10599.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "自营",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 2,
+        "CornerMarkName": "自由行"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 7, 14],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1558713600, 1558886400, 1559059200, 1559491200, 1559664000, 1559923200, 1560096000, 1560268800, 1560528000, 1560700800, 1560873600, 1561132800, 1561305600, 1561478400, 1561737600],
+    "HolidayList": ["端午"],
+    "ProductGrade": 4,
+    "ProductID": 140610,
+    "ProductType": 4,
+    "ProductSubType": 1,
+    "name": "【私家小团】希腊圣岛+天空之城7晚9天半自助【雅典5星+4星圣岛悬崖/米其林餐厅/日落海鲜餐/下午茶/专车专导4-6人小团】",
+    "subName": "雅典+圣托里尼+天空之城+雅典",
+    "ProductUrl": "https://m.aoyou.com/tourstatic.html?pid=140610&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201310/t02jnj10174517.jpg",
+    "ProductPrice": 24399.0,
+    "PreferentialMoney": 0.0,
+    "price": 24399.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "自营",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 13,
+        "CornerMarkName": "私家团"
+    }, {
+        "CornerMarkID": 2,
+        "CornerMarkName": "自由行"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [9, 7],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1560355200, 1565366400, 1568044800],
+    "HolidayList": ["中秋节"],
+    "ProductGrade": 4,
+    "ProductID": 141486,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "【一价全含】意大利+希腊双岛浪漫15日游【2晚悬崖酒店/沉船湾/米其林推荐餐厅】",
+    "subName": "精致小团/内陆加飞/阿尔贝罗贝洛/马泰拉石窟/五渔村/赠WIFI/夜船2人内舱",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=141486&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201804/4vt8lx23110640.jpg",
+    "ProductPrice": 21999.0,
+    "PreferentialMoney": 0.0,
+    "price": 21999.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "自营",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "世界文化遗产",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "家庭游",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 4,
+        "ShowLabelName": "宗教朝圣",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 7],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1559750400, 1570723200],
+    "HolidayList": ["端午"],
+    "ProductGrade": 4,
+    "ProductID": 141915,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "希腊双岛+法国12日游【2晚悬崖酒店/圣米歇尔山/诺曼底悬崖海岸】",
+    "subName": "精致小团/内陆加飞/米克诺斯/蒙马特高地\"爱墙\"/莫奈花园/圣马洛古城/羊排餐",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=141915&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201608/nn6r8z05145102.jpg",
+    "ProductPrice": 19999.0,
+    "PreferentialMoney": 0.0,
+    "price": 19999.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "自营",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "世界文化遗产",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "家庭游",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 4,
+        "ShowLabelName": "宗教朝圣",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 7],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1562601600, 1563638400, 1564416000, 1568044800],
+    "HolidayList": ["中秋节"],
+    "ProductGrade": 4,
+    "ProductID": 143604,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "【爆款蜜月游】希腊双岛10日游【米克诺斯/圣托里尼/德尔菲/梅黛奥拉/卡拉巴卡】【前10名报名立减600元/人】",
+    "subName": "【纯玩无购物】【国航直飞，可配全国联运】【25人精致小团】【4人共享WIFI】",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=143604&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201804/84l6x012141323.jpg",
+    "ProductPrice": 17999.0,
+    "PreferentialMoney": 0.0,
+    "price": 17999.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1558454400, 1559664000, 1560355200, 1561392000, 1561996800, 1563465600, 1563811200, 1564243200, 1565280000, 1565625600, 1566748800, 1567699200, 1569772800, 1569859200],
+    "HolidayList": ["十一"],
+    "ProductGrade": 0,
+    "ProductID": 125684,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "【25人VIP小团】意大利+希腊双岛<扎金索斯岛+圣托里尼岛>=15天浪漫之旅，赠送Wifi,内陆加飞，悬崖酒店，TheMal",
+    "subName": "【代理】四星酒店+阿玛菲海岸+蘑菇村+五渔村+比萨斜塔+双游轮+伊亚小镇+庞贝",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=125684&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201603/nx6v8l30103326.jpg",
+    "ProductPrice": 20999.0,
+    "PreferentialMoney": 0.0,
+    "price": 20999.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "世界文化遗产",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "情侣蜜月",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 4,
+        "ShowLabelName": "浪漫酒庄",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8, 11],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1558800000, 1559318400, 1559923200, 1560528000, 1561392000, 1561910400, 1562860800, 1563379200, 1564156800, 1564848000, 1565193600, 1565452800, 1565625600, 1566576000, 1567699200, 1568217600, 1568822400, 1568908800, 1569254400, 1569513600, 1569772800, 1569859200, 1571328000],
+    "HolidayList": ["十一"],
+    "ProductGrade": 0,
+    "ProductID": 126540,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "【浪漫之旅】希腊圣岛+\"一价全含\"法意瑞14天【金山快车/铁力士山/庞贝/特色餐】",
+    "subName": "【代理】圣岛直飞那不、贡多拉+塞纳河游船+贡多拉游船啊+游名城览雪山、邂逅爱琴海",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=126540&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201608/nn6r8z05145102.jpg",
+    "ProductPrice": 17800.0,
+    "PreferentialMoney": 0.0,
+    "price": 17800.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8, 11],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1562083200, 1566921600],
+    "HolidayList": null,
+    "ProductGrade": 0,
+    "ProductID": 143376,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "【爆款蜜月游】希腊双岛9日游【圣岛+米岛】【悬崖酒店】【希式日落特色餐】【奥特莱斯】",
+    "subName": "【纯玩无购物】【25人精致小团】【赠送WiFi】【自由活动】",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=143376&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201804/86h48j02142318.jpg",
+    "ProductPrice": 11899.0,
+    "PreferentialMoney": 0.0,
+    "price": 11899.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1560009600, 1562947200, 1563552000, 1564156800, 1564761600, 1565366400, 1566576000, 1567785600, 1568390400],
+    "HolidayList": ["端午"],
+    "ProductGrade": 0,
+    "ProductID": 143241,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "【网红打卡款】升级版·TK土航、希腊双岛+土耳其16天深度游【赠送WIFI&悬崖酒店&洞穴酒店&温泉酒店】",
+    "subName": "【代理】圣-雅升级飞机，圣索菲亚大教堂+棉花堡+费特希耶+卡帕多奇+赠送伊亚落日",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=143241&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201608/nn6r8z05145102.jpg",
+    "ProductPrice": 19999.0,
+    "PreferentialMoney": 0.0,
+    "price": 19999.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "世界文化遗产",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "摄影写真",
+        "ShowLabelDetail": "有专业摄影师为您拍摄写真大片！"
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8, 11],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1559059200, 1560096000, 1561305600, 1562515200, 1564243200, 1564588800, 1565539200, 1565798400, 1566144000, 1566316800],
+    "HolidayList": null,
+    "ProductGrade": 0,
+    "ProductID": 112937,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "土耳其+希腊14日唯美地中海之旅（TK航空/升级2晚卡帕洞穴酒店）",
+    "subName": "【代理】圣索菲亚大教堂入内参观、博斯布鲁斯海峡游船",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=112937&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201412/hb0pd009101409.jpg",
+    "ProductPrice": 19699.0,
+    "PreferentialMoney": 0.0,
+    "price": 19699.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1559750400, 1560873600, 1561305600, 1561651200, 1561910400, 1563379200, 1563897600, 1564934400, 1565366400, 1565539200, 1566748800, 1567612800, 1568131200, 1568822400, 1569254400, 1569513600, 1569859200],
+    "HolidayList": ["十一"],
+    "ProductGrade": 0,
+    "ProductID": 122679,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "全新·升级版 <希腊双岛+西班牙+葡萄牙>=15天非凡南欧之旅【随团赠送WIFI/全程四星酒店/两晚特色悬崖酒店】",
+    "subName": "【代理】升级圣岛-巴塞航线换来巴塞一天自由活动+人骨教堂+罗卡角+圣岛特色烤肉餐",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=122679&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201412/lj24vx09101046.jpg",
+    "ProductPrice": 20999.0,
+    "PreferentialMoney": 0.0,
+    "price": 20999.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "爸妈游",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "家庭游",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8, 11],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1559059200, 1560441600, 1560873600, 1563724800, 1564761600, 1564934400, 1565107200],
+    "HolidayList": null,
+    "ProductGrade": 0,
+    "ProductID": 140755,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "金·牌【洲际希腊一地10日】LH汉莎航空-雅典-德尔菲-卡拉巴卡-梅黛奥拉-米克诺斯-圣托里尼",
+    "subName": "2晚洲际酒店，圣岛悬崖，梅黛奥拉，内陆加飞，百年老店，餐食升级，赠送使用WIFI",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=140755&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201804/tzvrj412141556.jpg",
+    "ProductPrice": 18300.0,
+    "PreferentialMoney": 0.0,
+    "price": 18300.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1562688000],
+    "HolidayList": null,
+    "ProductGrade": 0,
+    "ProductID": 143100,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "希腊+一价全含法意瑞15日（法国意大利瑞士）圣托里尼一天自由活动+铁力士+庞贝古城+卢浮宫+天使之乡快车+庄园品酒 塞纳河游船+意大利风味餐",
+    "subName": "汉莎航空直飞欧洲-意大利特色餐-卢浮宫专业讲解-境外加飞-佛罗伦萨-罗马-庞贝",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=143100&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201802/hv0j0801171614.jpg",
+    "ProductPrice": 22800.0,
+    "PreferentialMoney": 0.0,
+    "price": 22800.0,
+    "ShowLabelList": null,
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1561478400, 1563897600, 1566057600, 1568476800],
+    "HolidayList": ["中秋节"],
+    "ProductGrade": 0,
+    "ProductID": 123819,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "【爆款】希腊+土耳其15日游【格莱梅露天博物馆/特洛伊/圣托里尼/雅典卫城】【提前60天报名立减600元/人】",
+    "subName": "【蓝色二重奏】【蓝色清真寺/孔亚/雅典卫城/伊亚小镇落日】",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=123819&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201412/r82x6x09101413.jpg",
+    "ProductPrice": 18999.0,
+    "PreferentialMoney": 0.0,
+    "price": 18999.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8, 11],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1560787200, 1563465600, 1564675200],
+    "HolidayList": null,
+    "ProductGrade": 4,
+    "ProductID": 118752,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "【一价全含】希腊+西班牙+葡萄牙15日游【雅典卫城/圣托里尼/圣家族大教堂/奎尔公园/情迷罗卡/悬崖酒店】",
+    "subName": "【25人精品小团】【2人共享WIFI】【提前60天报名立减800元】",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=118752&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201608/40828j05144933.jpg",
+    "ProductPrice": 23399.0,
+    "PreferentialMoney": 0.0,
+    "price": 23399.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "世界文化遗产",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8, 11],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1558972800, 1560960000, 1561392000, 1561564800, 1561910400, 1563811200, 1565366400, 1566316800, 1567612800, 1569686400],
+    "HolidayList": ["十一"],
+    "ProductGrade": 0,
+    "ProductID": 140185,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "金钻、希腊+‘一价全含’巴尔干15天【 全程赠送WiFi/圣岛自由活动/升级内陆飞/世界遗产】",
+    "subName": "【代理】精选4-5星酒店，连住️两晚悬崖酒店，品味当地特色餐，伊亚小镇观最美落日",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=140185&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201608/00npjx05145026.jpg",
+    "ProductPrice": 25999.0,
+    "PreferentialMoney": 0.0,
+    "price": 25999.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 2,
+        "ShowLabelName": "一价全包",
+        "ShowLabelDetail": "由于产品类型多样，具体包含项目详见产品详情页。"
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "爸妈游",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "家庭游",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8, 11],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1561219200, 1563638400, 1566057600, 1567267200, 1569686400],
+    "HolidayList": ["十一"],
+    "ProductGrade": 4,
+    "ProductID": 113118,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "【双洲深度游】希腊+土耳其14日游【圣托里尼岛，棉花堡，卡帕多奇亚】",
+    "subName": "【代理产品】圣岛自由活动,托普卡帕皇宫,蓝色清真寺，棉花堡,羊排餐",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=113118&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201608/nn6r8z05145102.jpg",
+    "ProductPrice": 16770.0,
+    "PreferentialMoney": 0.0,
+    "price": 16770.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1559664000, 1561132800],
+    "HolidayList": ["端午"],
+    "ProductGrade": 0,
+    "ProductID": 140899,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "【独·家新品】升级版·金钻希腊三岛14天大全景之旅【25人VIP小团】赠送Wifi,",
+    "subName": "【代理】四-五星级酒店+两晚‘费拉镇’悬崖酒店+特色海鲜大餐+内陆飞机+梅黛奥拉",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=140899&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201802/t8zll201155408.jpg",
+    "ProductPrice": 23200.0,
+    "PreferentialMoney": 0.0,
+    "price": 23200.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "摄影写真",
+        "ShowLabelDetail": "有专业摄影师为您拍摄写真大片！"
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "情侣蜜月",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8, 11],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1558800000, 1560009600, 1561392000, 1563033600, 1564848000, 1565625600, 1568476800],
+    "HolidayList": ["端午"],
+    "ProductGrade": 0,
+    "ProductID": 142502,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "土耳其+希腊双国浪漫16日蓝色之旅",
+    "subName": "【代理产品】车载WIFI/伊斯坦布尔",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=142502&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201804/62pb0j12141609.jpg",
+    "ProductPrice": 14999.0,
+    "PreferentialMoney": 0.0,
+    "price": 14999.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1560700800],
+    "HolidayList": null,
+    "ProductGrade": 3,
+    "ProductID": 120813,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "【南欧+西欧双体验】希腊+法国+意大利+瑞士13日游",
+    "subName": "【代理】铁力士雪山，卢浮宫，凡尔赛宫，贡多拉塞纳河双游船，增2人一台WiFi",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=120813&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201608/pj02x205145118.jpg",
+    "ProductPrice": 15050.0,
+    "PreferentialMoney": 0.0,
+    "price": 15050.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1558713600, 1559923200, 1560787200, 1561392000],
+    "HolidayList": ["端午"],
+    "ProductGrade": 0,
+    "ProductID": 126431,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "瑞士+希腊双岛<圣岛+米岛>=12天悠享之旅【25人vip小团/赠送Wifi/两晚悬崖酒店/圣岛特色烤肉餐】",
+    "subName": "【代理】全程四星+升级瑞士圣岛航线+双岛+马特洪峰+卓别林博物馆+西庸古堡含品酒",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=126431&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201412/lj24vx09101046.jpg",
+    "ProductPrice": 21999.0,
+    "PreferentialMoney": 0.0,
+    "price": 21999.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "情侣蜜月",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "家庭游",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8, 11],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1560614400, 1567526400],
+    "HolidayList": null,
+    "ProductGrade": 0,
+    "ProductID": 139456,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "欧陆纵贯线--波罗的海&东欧&巴尔干16国28天【一价全含，不收小费，不推自费！】",
+    "subName": "赠送5个特色餐+奥赫里德湖游船+塔林&雅典两点进出，不走回头路",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=139456&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201810/4p804f31175555.jpg",
+    "ProductPrice": 31800.0,
+    "PreferentialMoney": 0.0,
+    "price": 31800.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1559491200, 1560700800, 1561305600, 1563120000, 1563724800, 1564329600, 1564934400, 1565539200, 1566144000],
+    "HolidayList": ["端午"],
+    "ProductGrade": 0,
+    "ProductID": 137240,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "【蜜月游】希腊双岛10游【圣托里尼岛/米克诺斯岛/雅典卫城/雅典奥特莱斯圣/岛升级两晚悬崖珍珠酒店/蓝旗海滩】",
+    "subName": "【纯玩无购物】【25人精致小团】【2人共享WIFI】【拒签退全款】",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=137240&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201804/62pb0j12141609.jpg",
+    "ProductPrice": 14999.0,
+    "PreferentialMoney": 0.0,
+    "price": 14999.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8, 11],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1560182400, 1561305600],
+    "HolidayList": null,
+    "ProductGrade": 4,
+    "ProductID": 116885,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "蓝白之恋希腊一地双岛7晚10日或者8晚10日，精选汉莎，部分国航直飞，精致小团，全程四钻，雅典升级五钻及圣岛悬崖酒店+拒签全退",
+    "subName": "圣托里尼/扎金索斯岛或米克诺斯/两人WiFi/0小费",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=116885&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201608/nn6r8z05145102.jpg",
+    "ProductPrice": 16350.0,
+    "PreferentialMoney": 0.0,
+    "price": 16350.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8, 11],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1560441600, 1561305600],
+    "HolidayList": null,
+    "ProductGrade": 0,
+    "ProductID": 140706,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "金钻·希腊双岛10天 【圣爱/两晚菲拉镇悬崖酒店】",
+    "subName": "【代理】赠送Wifi,雅典卫城+伊亚落日+内陆加飞+德尔菲古遗迹+赠送海鲜大餐",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=140706&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201802/t8zll201155408.jpg",
+    "ProductPrice": 17800.0,
+    "PreferentialMoney": 0.0,
+    "price": 17800.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "摄影写真",
+        "ShowLabelDetail": "有专业摄影师为您拍摄写真大片！"
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "情侣蜜月",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8, 11],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1559750400, 1560960000],
+    "HolidayList": ["端午"],
+    "ProductGrade": 0,
+    "ProductID": 127257,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "金钻·希腊双岛<圣岛+米岛>=8天深度游【免费WIFI/漫步爱情海/特色海鲜大餐】",
+    "subName": "【代理】雅典五星酒店+米岛四星+圣岛两晚悬崖酒店+雅典卫城+伊亚落日+内陆加飞 ",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=127257&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201608/nn6r8z05145102.jpg",
+    "ProductPrice": 18300.0,
+    "PreferentialMoney": 0.0,
+    "price": 18300.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "摄影写真",
+        "ShowLabelDetail": "有专业摄影师为您拍摄写真大片！"
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "情侣蜜月",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1559836800, 1560182400, 1560441600, 1561392000],
+    "HolidayList": ["端午"],
+    "ProductGrade": 4,
+    "ProductID": 119369,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "【深度体验】希腊海岛10日游【国航往返直飞，可配国内联运/圣托里尼岛悬崖酒店/烤鱼特色餐+希式羊排餐/10-25人左右精品小团组】",
+    "subName": "【代理】圣岛—雅典升级飞机45分钟等于7.5小时船程/扎金索斯岛/雅典卫城",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=119369&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201608/nn6r8z05145102.jpg",
+    "ProductPrice": 19800.0,
+    "PreferentialMoney": 0.0,
+    "price": 19800.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "摄影写真",
+        "ShowLabelDetail": "有专业摄影师为您拍摄写真大片！"
+    }, {
+        "ShowLabelType": 3,
+        "ShowLabelName": "情侣蜜月",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1561564800],
+    "HolidayList": null,
+    "ProductGrade": 0,
+    "ProductID": 142776,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "希腊+法瑞意 悬崖酒店&浪漫爱琴海&圣托里尼岛&铁力士山&庞贝古城&天使之乡快车&庄园品酒&塞纳河游船&意大利风味餐&法瑞意段一价全含",
+    "subName": "希腊+法国+瑞士+意大利、境外加飞&圣托里尼一天自由活动&巴黎一天自由活动",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=142776&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201802/hv0j0801171614.jpg",
+    "ProductPrice": 19800.0,
+    "PreferentialMoney": 0.0,
+    "price": 19800.0,
+    "ShowLabelList": null,
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1561392000, 1563120000, 1563724800, 1564329600, 1564675200, 1565366400],
+    "HolidayList": null,
+    "ProductGrade": 0,
+    "ProductID": 140134,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "南欧【一价全含 尊品】希腊一地 扎金索斯 米克诺斯 雅典五星 圣托里尼 悬崖酒店 内陆加飞 奥特莱斯",
+    "subName": "扎金索斯，米克诺斯，雅典五星，圣托里尼，悬崖酒店，内陆加飞，奥特莱斯，三大特色风",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=140134&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201804/tzvrj412141556.jpg",
+    "ProductPrice": 21800.0,
+    "PreferentialMoney": 0.0,
+    "price": 21800.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8, 11],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1560268800, 1560960000],
+    "HolidayList": null,
+    "ProductGrade": 0,
+    "ProductID": 127343,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "25人vip精致小团 <希腊双岛+法国>=14天·双海岸浪漫之旅【全程四星级酒店/两晚特色悬崖酒店/山谷奥特莱斯/赠WIFI】",
+    "subName": "【代理】圣岛-巴黎航线.双岛+圣米歇尔山+象鼻山+香波堡+烤肉餐+巴黎自由活动",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=127343&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201608/nn6r8z05145102.jpg",
+    "ProductPrice": 21999.0,
+    "PreferentialMoney": 0.0,
+    "price": 21999.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1564416000, 1564502400],
+    "HolidayList": null,
+    "ProductGrade": 0,
+    "ProductID": 140756,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "金·牌【洲际希腊一地10日】LX瑞士航空-雅典-德尔菲-卡拉巴卡-梅黛奥拉-米克诺斯-圣托里尼",
+    "subName": "2晚洲际酒店，圣岛悬崖，梅黛奥拉，内陆加飞，百年老店，餐食升级，赠送使用WIFI",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=140756&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201804/tzvrj412141556.jpg",
+    "ProductPrice": 22800.0,
+    "PreferentialMoney": 0.0,
+    "price": 22800.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}, {
+    "InterFlag": 2,
+    "BeginCityName": "北京",
+    "IsNationalBeginCity": false,
+    "IsHalfSelfHelp": false,
+    "IsCombined": false,
+    "DepartDateList": [1562860800, 1563206400, 1563811200, 1564243200, 1565625600],
+    "HolidayList": null,
+    "ProductGrade": 0,
+    "ProductID": 140760,
+    "ProductType": 1,
+    "ProductSubType": 2,
+    "name": "金·牌【洲际希腊一地10日】LH汉莎航空-雅典-德尔菲-卡拉巴卡-梅黛奥拉-米克诺斯-圣托里尼",
+    "subName": "国航直飞，2晚洲际酒店，圣岛悬崖，梅黛奥拉，米克诺斯，伊亚日落，雅典卫城，内陆加",
+    "ProductUrl": "https://m.aoyou.com/group.html?pid=140760&i2#!/",
+    "imageURL": "http://images1.aoyou.com/productlist/201804/tzvrj412141556.jpg",
+    "ProductPrice": 23300.0,
+    "PreferentialMoney": 0.0,
+    "price": 23300.0,
+    "ShowLabelList": [{
+        "ShowLabelType": 5,
+        "ShowLabelName": "遨游代理",
+        "ShowLabelDetail": ""
+    }],
+    "ProductCornerMarkList": [{
+        "CornerMarkID": 1,
+        "CornerMarkName": "跟团游"
+    }],
+    "IsHasPreferential": true,
+    "ProductFlagList": [6, 9, 8],
+    "IsTopRecommendProduct": false,
+    "TopRecommendReason": null
+}]
