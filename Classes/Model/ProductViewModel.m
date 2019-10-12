@@ -29,6 +29,7 @@
     return [[[RACSignal createSignal:^RACDisposable * _Nullable(id<RACSubscriber>  _Nonnull subscriber) {
         @strongify(self);
         RACDisposable *disposable = [RACDisposable disposableWithBlock:^{
+            NSLog(@"disposable");
         }];
         
         NSError *pathError = [NSError errorWithDomain:@"com.xx.xx" code:1000 userInfo:@{NSLocalizedDescriptionKey : @"pathError"}];
@@ -62,6 +63,7 @@
             [subscriber sendNext:[mArr copy]];
         }
         [subscriber sendCompleted];
+        return disposable;
     }] replayLast] deliverOnMainThread];
 }
 
