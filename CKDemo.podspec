@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = "CKDemo for use"
   s.homepage     = "https://gitlab.com/konglee873/usercollectionview"
   s.author       = { "konglee873" => "konglee873@gmail.com" }
-  s.source       = { :git => "git@github.com:kingleekong/CKDemo.git", :tag => "#{s.version}"}
+  s.source       = { :git => "git@github.com:kikiloveswift/CKDemo.git", :tag => "#{s.version}"}
   s.source_files = [
     "Classes/**/**/*.{swift,h,m,c,mm}",
   ]
