@@ -17,7 +17,7 @@
 
 #define ScreenSize [UIScreen mainScreen].bounds.size
 
-@interface ProductViewController ()<CKComponentProvider>
+@interface ProductViewController ()<CKComponentProvider, UICollectionViewDelegateFlowLayout>
 
 @property (nonatomic) UICollectionView *collectionView;
 
@@ -94,7 +94,8 @@
     layout.minimumInteritemSpacing = 0;
     layout.scrollDirection = UICollectionViewScrollDirectionVertical;
     self.collectionView = [[UICollectionView alloc] initWithFrame:CGRectZero collectionViewLayout:layout];
-    self.collectionView.backgroundColor = [UIColor lightTextColor];
+    self.collectionView.delegate = self;
+    self.collectionView.backgroundColor = [UIColor whiteColor];
     [self.view addSubview:self.collectionView];
     
     [self.collectionView mas_makeConstraints:^(MASConstraintMaker *make) {
@@ -124,6 +125,12 @@
         return [ProductComponent newWithModel:(ProductModel *)model context:(ProductComponentContext *)context];
     }
     return nil;
+}
+
+
+#pragma mark - UICollectionViewDelegateFlowLayout
+- (CGSize)collectionView:(UICollectionView *)collectionView layout:(UICollectionViewLayout *)collectionViewLayout sizeForItemAtIndexPath:(NSIndexPath *)indexPath {
+    return [self.dataSource sizeForItemAtIndexPath:indexPath];
 }
 
 

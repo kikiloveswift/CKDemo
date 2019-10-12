@@ -33,9 +33,9 @@
     CKComponent *right = nil;
     
     CKComponent *name = [CKLabelComponent newWithLabelAttributes:{
-                                            .alignment = NSTextAlignmentRight,
+                                            .alignment = NSTextAlignmentLeft,
                                             .string = m.name,
-                                            .font = [UIFont boldSystemFontOfSize:20],
+                                            .font = [UIFont boldSystemFontOfSize:19],
                                             .color = [UIColor blackColor],
                                             .lineBreakMode = NSLineBreakByTruncatingTail,
                                             .maximumNumberOfLines = 2,
@@ -46,10 +46,10 @@
                                         } size:{}];
     
     CKComponent *subname = [CKLabelComponent newWithLabelAttributes:{
-                                            .alignment = NSTextAlignmentRight,
+                                            .alignment = NSTextAlignmentLeft,
                                             .string = m.subName,
                                             .font = [UIFont italicSystemFontOfSize:17],
-                                            .color = [UIColor lightTextColor],
+                                            .color = [UIColor blackColor],
                                             .lineBreakMode = NSLineBreakByTruncatingTail,
                                         } viewAttributes:{
                                             {
@@ -58,9 +58,9 @@
                                         } size:{}];
     
     CKComponent *price = [CKLabelComponent newWithLabelAttributes:{
-                        .alignment = NSTextAlignmentRight,
-                        .string = [NSString stringWithFormat:@"%d", m.price],
-                        .font = [UIFont boldSystemFontOfSize:24],
+                        .alignment = NSTextAlignmentLeft,
+                        .string = [NSString stringWithFormat:@"%d", [m.price integerValue]],
+                        .font = [UIFont boldSystemFontOfSize:20],
                         .color = [UIColor redColor],
                         .lineBreakMode = NSLineBreakByTruncatingTail,
                     } viewAttributes:{
@@ -101,7 +101,7 @@
                       style:{
                     .direction = CKFlexboxDirectionRow,
                     .justifyContent = CKFlexboxJustifyContentCenter,
-                    .alignItems = CKFlexboxAlignItemsStretch,
+                    .alignItems = CKFlexboxAlignItemsCenter,
                 }
                       children:{
                 {
@@ -114,7 +114,7 @@
                 }
             }];
     
-    ProductComponent *p = [ProductComponent newWithComponent:[CKInsetComponent newWithInsets:{.top = 20, .left = 20, .right = 15, .bottom = 20} component:c]];
+    ProductComponent *p = [ProductComponent newWithComponent:[CKInsetComponent newWithInsets:{.top = 10, .left = 15, .right = 15, .bottom = 10} component:c]];
     p.context = context;
     p.model = m;
     return p;

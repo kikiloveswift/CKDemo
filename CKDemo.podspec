@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "CKDemo"
-  s.version      = "0.0.1"
+  s.version      = "0.0.2"
   s.summary      = "CKDemo for use"
   s.description  = "CKDemo for use"
   s.homepage     = "https://gitlab.com/konglee873/usercollectionview"
