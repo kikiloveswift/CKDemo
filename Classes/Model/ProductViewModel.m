@@ -7,6 +7,7 @@
 
 #import "ProductViewModel.h"
 #import "ProductModel.h"
+#import <NSObject+YYModel.h>
 
 @interface ProductViewModel()
 
@@ -27,13 +28,25 @@
     @weakify(self);
     return [[[RACSignal createSignal:^RACDisposable * _Nullable(id<RACSubscriber>  _Nonnull subscriber) {
         @strongify(self);
+        
         /// network with path request
         NSString *path = self.path;
         NSBundle *associateBundle = [NSBundle bundleWithURL:[NSURL URLWithString:path]];
         associateBundle = [associateBundle URLForResource:@"CKDemo" withExtension:@"bundle"];
         NSBundle *bundle = [NSBundle bundleWithURL:associateBundle];
         NSData *data = [bundle pathForResource:@"product" ofType:@"json"];
-        [subscriber sendNext:nil];
+        
+        id json = [NSJSONSerialization JSONObjectWithData:data options:NSJSONReadingMutableContainers error:nil];
+        if ([json isKindOfClass:NSArray.class]) {
+            NSMutableArray<ProductModel *> *mArr = [NSMutableArray array];
+            [(NSArray *)json enumerateObjectsUsingBlock:^(id  _Nonnull obj, NSUInteger idx, BOOL * _Nonnull stop) {
+                ProductModel *model = [ProductModel yy_modelWithJSON:obj];
+                [mArr addObject:model];
+            }];
+            self.dataArr = [mArr copy];
+        }
+        
+        [subscriber sendNext:self.dataArr];
         [subscriber sendCompleted];
     }] replayLast] deliverOnMainThread];
 }
