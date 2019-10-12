@@ -34,8 +34,8 @@
         NSBundle *associateBundle = [NSBundle bundleWithURL:[NSURL URLWithString:path]];
         associateBundle = [associateBundle URLForResource:@"CKDemo" withExtension:@"bundle"];
         NSBundle *bundle = [NSBundle bundleWithURL:associateBundle];
-        NSString *pathJson = [bundle pathForResource:@"product" ofType:@"json"];
-        NSData *data = [NSData dataWithContentsOfURL:[NSURL URLWithString:pathJson] options:NSDataReadingMappedIfSafe error:nil];
+        NSString *pathJSON = [bundle pathForResource:@"product" ofType:@"json"];
+        NSData *data = [NSData dataWithContentsOfFile:pathJSON options:NSDataReadingMappedIfSafe error:nil];
     
         id json = [NSJSONSerialization JSONObjectWithData:data options:NSJSONReadingMutableContainers error:nil];
         if ([json isKindOfClass:NSArray.class]) {
