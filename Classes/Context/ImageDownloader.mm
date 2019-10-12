@@ -42,7 +42,11 @@
     [operation cancel];
 }
 
-- (id)downloadImageWithURL:(NSURL *)URL scenePath:(id)scenePath caller:(id)caller callbackQueue:(dispatch_queue_t)callbackQueue downloadProgressBlock:(void (^)(CGFloat))downloadProgressBlock completion:(void (^)(CGImageRef, NSError *))completion {
+- (id)downloadImageWithURL:(NSURL *)URL
+               caller:(id)caller
+        callbackQueue:(dispatch_queue_t)callbackQueue
+downloadProgressBlock:(void (^)(CGFloat progress))downloadProgressBlock
+                completion:(void (^)(CGImageRef image, NSError *error))completion {
     NSAssert(URL != nil, @"URL 不可为空");
     UIImage *img = [[SDImageCache sharedImageCache] imageFromCacheForKey:URL.absoluteString];
     if (img) {
@@ -65,6 +69,7 @@
             [[SDImageCache sharedImageCache] storeImage:image forKey:URL.absoluteString toDisk:YES completion:nil];
         });
     }];
+    
 }
 
 @end
