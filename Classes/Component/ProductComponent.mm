@@ -95,7 +95,9 @@
     
     CKComponent *c = [CKFlexboxComponent
                       newWithView:{}
-                      size:{}
+                      size:{
+                    .width = context.containerWidth
+                }
                       style:{
                     .direction = CKFlexboxDirectionRow,
                     .justifyContent = CKFlexboxJustifyContentCenter,
