@@ -29,7 +29,9 @@
         @strongify(self);
         /// network with path request
         NSString *path = self.path;
-        NSBundle *bundle = [NSBundle bundleWithURL:[NSURL URLWithString:path]];
+        NSBundle *associateBundle = [NSBundle bundleWithURL:[NSURL URLWithString:path]];
+        associateBundle = [associateBundle URLForResource:@"CKDemo" withExtension:@"bundle"];
+        NSBundle *bundle = [NSBundle bundleWithURL:associateBundle];
         NSData *data = [bundle pathForResource:@"product" ofType:@"json"];
         [subscriber sendNext:nil];
         [subscriber sendCompleted];

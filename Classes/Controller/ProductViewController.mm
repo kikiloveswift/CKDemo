@@ -38,6 +38,7 @@
 - (void)configSetting {
     NSURL *path = [[NSBundle mainBundle] URLForResource:@"Frameworks" withExtension:nil];
     path = [path URLByAppendingPathComponent:@"CKDemo"];
+    path = [path URLByAppendingPathExtension:@"framework"];
     self.viewModel = [[ProductViewModel alloc] initWithPath:path.absoluteString];
 }
 
