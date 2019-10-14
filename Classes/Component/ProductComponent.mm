@@ -9,6 +9,12 @@
 #import "ProductModel.h"
 #import "ProductComponentContext.h"
 
+@interface CustomView : UIView
+
+- (void)updateGradientLayer:(nonnull UIColor *)color;
+
+@end
+
 @implementation ProductComponent
 
 + (instancetype)newWithModel:(ProductModel *)m
@@ -119,5 +125,37 @@
     p.model = m;
     return p;
 }
+
+static inline CKComponent * gradientLayer(ProductModel *m) {
+    CKComponent *gradient = [CKComponent
+    newWithView:{
+        CustomView.class,
+        {
+            {{"CustomView.config", ^(CustomView *view, id r) {
+                [view updateGradientLayer:color]
+            }}, m.price.integerValue > 10000},
+        }
+    } size:{.width = 18, .height = 18}];
+    
+    
+    return nil;
+}
+
+@end
+
+@implementation CustomView
+
+
+- (void)updateGradientLayer:(CGFloat)alpha {
+    CAGradientLayer *gradientLayer = [CAGradientLayer layer];
+    gradientLayer.colors = @[(__bridge id)[[UIColor whiteColor] colorWithAlphaComponent:0.7].CGColor,
+    (__bridge id)[UIColor whiteColor].CGColor];
+    gradientLayer.locations = @[@0.7];
+    gradientLayer.startPoint = CGPointMake(0, 0);
+    gradientLayer.endPoint = CGPointMake(0, 1.0);
+    gradientLayer.frame = self.frame;
+    [self.layer addSublayer:gradientLayer];
+}
+
 
 @end
