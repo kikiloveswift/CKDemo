@@ -150,9 +150,8 @@ static inline CKComponent * gradientComponent(ProductModel *m) {
 
 - (void)updateGradientLayer:(CGFloat)alpha {
     CAGradientLayer *gradientLayer = [CAGradientLayer layer];
-    gradientLayer.colors = @[(__bridge id)[[UIColor yellowColor] colorWithAlphaComponent:alpha].CGColor,
+    gradientLayer.colors = @[(__bridge id)[[UIColor blueColor] colorWithAlphaComponent:alpha].CGColor,
     (__bridge id)[UIColor yellowColor].CGColor];
-    gradientLayer.locations = @[@0.7];
     gradientLayer.startPoint = CGPointMake(0, 0);
     gradientLayer.endPoint = CGPointMake(0, 1.0);
     gradientLayer.frame = CGRectMake(0, 0, 18, 18);
