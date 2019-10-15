@@ -19,6 +19,7 @@ Pod::Spec.new do |s|
   s.public_header_files = [
     'Classes/Context/ProductComponentContext.h',
     'Classes/Context/ImageDownloader.h',
+    'Classes/Controller/ProductViewController.h',
   ]
   
   s.requires_arc = true

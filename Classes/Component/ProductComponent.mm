@@ -96,6 +96,9 @@
                 .flexShrink = YES,
             }, {
                 price,
+            }, {
+                gradientComponent(m),
+                .spacingBefore = 5,
             }
         }];
     
@@ -126,19 +129,18 @@
     return p;
 }
 
-static inline CKComponent * gradientLayer(ProductModel *m) {
+static inline CKComponent * gradientComponent(ProductModel *m) {
     CKComponent *gradient = [CKComponent
     newWithView:{
         CustomView.class,
         {
             {{"CustomView.config", ^(CustomView *view, id r) {
-                [view updateGradientLayer:color]
-            }}, m.price.integerValue > 10000},
+                [view updateGradientLayer:r];
+            }}, m.price.integerValue % 10},
         }
     } size:{.width = 18, .height = 18}];
     
-    
-    return nil;
+    return gradient;
 }
 
 @end
@@ -148,12 +150,12 @@ static inline CKComponent * gradientLayer(ProductModel *m) {
 
 - (void)updateGradientLayer:(CGFloat)alpha {
     CAGradientLayer *gradientLayer = [CAGradientLayer layer];
-    gradientLayer.colors = @[(__bridge id)[[UIColor whiteColor] colorWithAlphaComponent:0.7].CGColor,
-    (__bridge id)[UIColor whiteColor].CGColor];
+    gradientLayer.colors = @[(__bridge id)[[UIColor yellowColor] colorWithAlphaComponent:alpha].CGColor,
+    (__bridge id)[UIColor yellowColor].CGColor];
     gradientLayer.locations = @[@0.7];
     gradientLayer.startPoint = CGPointMake(0, 0);
     gradientLayer.endPoint = CGPointMake(0, 1.0);
-    gradientLayer.frame = self.frame;
+    gradientLayer.frame = CGRectMake(0, 0, 18, 18);
     [self.layer addSublayer:gradientLayer];
 }
 
